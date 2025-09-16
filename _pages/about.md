@@ -23,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a currently a first-year Ph.D. student in the [Computer Science Theory group](https://theory.cs.northwestern.edu/) at Northwestern University, advised by [Edith Elkind](https://elkind.ee/edith). I obtained my bachelor degree in Computer Science from City University of Hong Kong.
+I am a first-year Ph.D. student in the [Computer Science Theory group](https://theory.cs.northwestern.edu/) at Northwestern University, advised by [Edith Elkind](https://elkind.ee/edith). I obtained my bachelor degree in Computer Science from City University of Hong Kong.
 
 My research interests lie in algorithmic game theory, with a particular focus on understanding **strategic behavior of agents across diverse environments**—ranging from **social choice problem**, **cooperative games** to **learning systems**, especially **large language models**.
 
