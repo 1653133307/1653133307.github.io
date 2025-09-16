@@ -7,21 +7,21 @@ ninja.data = [{
     title: "ABOUT",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-papers",
           title: "PAPERS",
           description: "Google Scholar  (αβ)indicates alphabetical author order. * indicates equal contribution.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/papers/";
+            window.location.href = "/papers/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
