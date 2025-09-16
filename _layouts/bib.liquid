@@ -25,7 +25,8 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
-      {% comment %} {%- if entry.price -%}
+      {% comment %}
+        {%- if entry.price -%}
           {%- if site.data.venues[entry.price] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.price].color != blank -%}
@@ -35,11 +36,11 @@
           {%- else -%}
             <abbr class="badge">{{entry.price}}</abbr>
           {%- endif -%}
-        {%- endif -%}  {% endcomment %}
+        {%- endif -%}
+      {% endcomment %}
       {% if entry.price %}
-          <span class="award badge">{{entry.price}}</span>
-        {% endif %}
-        
+        <span class="award badge">{{ entry.price }}</span>
+      {% endif %}
 
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
@@ -73,7 +74,7 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
-<!-- for alphabetical authorship -->
+      <!-- for alphabetical authorship -->
       {%- if entry.ab -%}
         (αβ)&nbsp;
       {%- endif -%}
@@ -104,8 +105,10 @@
         {% endif %}
         {%- if author_is_self -%}
           {% comment %} <em> {% endcomment %}
-            <strong> {{- author.first }}
-            {{ author_last_html -}} </strong>
+          <strong>
+            {{- author.first }}
+            {{ author_last_html -}}
+          </strong>
           {% comment %} </em> {% endcomment %}
         {%- else -%}
           {%- if coauthor_url -%}

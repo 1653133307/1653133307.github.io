@@ -4,7 +4,7 @@
     - title: Ph.D in Computer Science
       institution: Northwestern University, Evanston, IL, USA
       year: 2025.9-Present
-      
+
     - title: Bachelor of Science in Computer Science
       institution: City University of Hong Kong, HK
       year: 2021-2025
@@ -12,7 +12,6 @@
     - title: Exchange Undergrad
       institution: Stanford University, Stanford, CA, US
       year: 2023
-      
 
 - title: Experience
   type: time_table
@@ -20,28 +19,27 @@
     - title: Visiting Research Student
       institution: Sigma Research Lab, University of Chicago, IL, US
       year: 2024.5-2025.5
-      
+
     - title: Full-time Research Assistant
       institution: Computer Science Department, City University of Hong Kong, HK
       year: 2023.5-2024.2
-
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.

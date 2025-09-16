@@ -5,7 +5,6 @@ title: PAPERS
 description: <a href = 'https://scholar.google.com/citations?user=Bex7Ma4AAAAJ&hl=en'>Google Scholar</a><br>  (αβ)indicates alphabetical author order. * indicates equal contribution.
 nav: true
 nav_order: 2
-
 ---
 
 <!-- _pages/publications.md -->
@@ -16,7 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-
 {% bibliography --query @*[howpublished=conference]* %}
 
 </div>
@@ -26,7 +24,6 @@ nav_order: 2
 <div class='h2'>Preprint</div>
 
 <div class="publications">
-
 
 {% bibliography --query @*[howpublished=preprint]* %}
 

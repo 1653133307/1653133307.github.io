@@ -16,3 +16,9 @@ vendor
 vendor/
 node_modules/
 .DS_Store
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
+node_modules/
+.DS_Store

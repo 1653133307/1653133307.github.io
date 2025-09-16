@@ -1,42 +1,39 @@
-
 # <-- conferences -->
 
-
 "WINE":
-  url: 
+  url:
   color: "#ebb134"
 
 "ICML":
-  url: 
+  url:
   color: "#ebb134"
 
 "AAMAS":
-  url: 
+  url:
   color: "#ebb134"
 
 "IJCAI":
-  url: 
+  url:
   color: "#ebb134"
 
 "KDD":
-  url: 
+  url:
   color: "#ebb134"
 
 "NeurIPs":
-  url: 
+  url:
   color: "#ebb134"
 
 "ACM EC":
-  url: 
+  url:
   color: "#ebb134"
 
 # <--journal-->
 "Games Econ. Behav.":
-  url: 
+  url:
   color: "#6cd0f5"
 
 # <--award-->
 "Best Student Paper":
-   url:
-   color: "#84569c"
-
+  url:
+  color: "#84569c"
