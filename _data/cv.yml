@@ -2,52 +2,55 @@
   type: time_table
   contents:
     - title: Ph.D in Computer Science
-      institution: Northwestern University, Evanston, IL, USA
-      year: 2025.9-Present
+      institution: Northwestern University
+      location: Evanston, IL, USA
+      year: 2025 - Present
+      items:
+        - Advisor Prof. Edith Elkind
 
     - title: Bachelor of Science in Computer Science
-      institution: City University of Hong Kong, HK
-      year: 2021-2025
+      institution: City University of Hong Kong
+      location: Hong Kong
+      year: 2021.8 - 2025.6
 
-    - title: Exchange Undergrad
-      institution: Stanford University, Stanford, CA, US
-      year: 2023
+    - title: Visiting Undergraduate in Computer Science
+      institution: Stanford University
+      location: Stanford, CA, US
+      year: 2023.5 - 2023.9
 
 - title: Experience
   type: time_table
   contents:
     - title: Visiting Research Student
-      institution: Sigma Research Lab, University of Chicago, IL, US
-      year: 2024.5-2025.5
+      institution: Sigma Research Lab, University of Chicago
+      location: Chicago, IL, US
+      year: 2024.5 - 2025.5
+      items:
+        - Advisor Prof. Haifeng Xu
 
     - title: Full-time Research Assistant
-      institution: Computer Science Department, City University of Hong Kong, HK
-      year: 2023.5-2024.2
+      institution: Computer Science Department, City University of Hong Kong
+      location: Hong Kong
+      year: 2023.9 - 2024.5
+      items:
+        - Advisor Prof. Minming Li
+
+    - title: Competition Assistant
+      year: 2023.5 - 2025.5
+      items:
+        - I served as a Competition Assistant for the Hong Kong Secondary School Coding Challenge (HKSC), where I contributed to problem setting, proctoring, and providing the contest.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - HKSAR Government Scholarship Fund - Talent Development Scholarship
+        - CityU-CS Overseas Learning Funding
+        - Fourth Place, ACM-HK Programming Contest
+        - Silver Medal, 48th ICPC Asia Regional Contest
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Misc
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Apart from research, I have enjoyed many different things at different stages of my life. In my early years I was passionate about drawing; during my teenage years I spent most of my time on sports, especially basketball; and in college I grew more into football. Nowadays I enjoy traveling and photography. I am also an avid FPS gamer — and firmly believe Overwatch is the best game in the world.
